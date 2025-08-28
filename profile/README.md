@@ -1,6 +1,5 @@
-# 🐍 Python São José dos Campos (SJC)
+# 🐍 Bem-vindo à comunidade **São José dos Campos (SJC)**!  
 
-Bem-vindo à comunidade **Python SJC**!  
 Nosso objetivo é reunir entusiastas, estudantes e profissionais para compartilhar conhecimento, organizar eventos e contribuir com projetos open source.
 
 ---
@@ -12,9 +11,9 @@ Nosso objetivo é reunir entusiastas, estudantes e profissionais para compartilh
 
 ---
 
-## 📅 Próximos encontros
-🔗 [Acompanhe nosso Meetup](#)  
-🔗 [Calendário de eventos](#)  
+## 📅 Nosos eventos
+🔗 [PyDay SJC Setembro](https://www.sympla.com.br/evento/pyday-sjc-setembro-2025/3097652)  
+🔗 [Calendário](#)  
 
 ---
 
@@ -40,9 +39,9 @@ Nosso objetivo é reunir entusiastas, estudantes e profissionais para compartilh
 ---
 
 ## 📬 Contato
-- [Meetup](#)
-- [Telegram/Discord/WhatsApp](#)
-- [Twitter](#) | [LinkedIn](#)
+- [Sympla](#)
+- [WhatsApp](https://chat.whatsapp.com/DSWlFXTPOkv54scbd1ib8l?mode=ems_wa_t)
+- [LinkedIn](https://www.linkedin.com/company/pythonsjc/)
 
 ---
 
