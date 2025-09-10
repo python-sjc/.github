@@ -1,4 +1,4 @@
-# 🐍 Bem-vindo à comunidade **São José dos Campos (SJC)**!  
+# 🐍 Bem-vindo à comunidade **Python São José dos Campos (SJC)**!  
 
 Nosso objetivo é reunir entusiastas, estudantes e profissionais para compartilhar conhecimento, organizar eventos e contribuir com projetos open source.
 
@@ -6,19 +6,19 @@ Nosso objetivo é reunir entusiastas, estudantes e profissionais para compartilh
 
 ## 🚀 O que você encontra aqui
 - 📂 **Demos**: exemplos e códigos apresentados em meetups e workshops  
-- 🎤 **Docs**: materiais de encontros, palestras e hands-on  
-- 📖 **Documentação**: guias e anotações produzidos pela comunidade  
+- 🎤 **Talks**: materiais de encontros, palestras e hands-on  
+- 📖 **Docs**: guias e anotações produzidos pela comunidade  
 
 ---
 
 ## 📅 Próximos eventos
 🔗 [PyDay SJC Outubro | Em breve!](#)  
-🔗 [Calendário](#)  
+🔗 [Calendário](https://www.sympla.com.br/produtor/pythonsjc)
 
 ---
-## 📂 Documentos
-- [Julho 2025](https://drive.google.com/drive/folders/1HacyGkWVk2zDbqzRWyRXYDXgMTAFrrKu?usp=sharing)
-- [Setembro 2025](https://drive.google.com/drive/u/5/folders/19X1SArJTrWWgJtns88r6XhIJ7RtDTv-D)
+## 📂 Apresentações 2025
+- [Setembro](https://drive.google.com/drive/folders/19X1SArJTrWWgJtns88r6XhIJ7RtDTv-D?usp=sharing)
+- [Julho](https://drive.google.com/drive/folders/1_YoDuhpf-McTytciu9dMHbuM1ec0Zngq?usp=sharing)
 
 ---
 
@@ -43,11 +43,7 @@ Nosso objetivo é reunir entusiastas, estudantes e profissionais para compartilh
 
 ---
 
-## 📬 Contato
-- [Sympla](#)
-- [WhatsApp](https://chat.whatsapp.com/DSWlFXTPOkv54scbd1ib8l?mode=ems_wa_t)
-- [LinkedIn](https://www.linkedin.com/company/pythonsjc/)
-
+## 📬 [Entre em nossa comunidade do WhatsApp!] (https://chat.whatsapp.com/DSWlFXTPOkv54scbd1ib8l?mode=ems_wa_t)
 ---
 
 Feito com ❤️ pela comunidade Python SJC
