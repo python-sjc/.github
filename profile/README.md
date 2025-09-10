@@ -43,7 +43,7 @@ Nosso objetivo é reunir entusiastas, estudantes e profissionais para compartilh
 
 ---
 
-## 📬 [Entre em nossa comunidade do WhatsApp!] (https://chat.whatsapp.com/DSWlFXTPOkv54scbd1ib8l?mode=ems_wa_t)
+## 📬 [Entre em nossa comunidade do WhatsApp!](https://chat.whatsapp.com/IAlFZiC1hD44v5u97JGPL3)
 ---
 
 Feito com ❤️ pela comunidade Python SJC
