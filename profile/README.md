@@ -6,14 +6,19 @@ Nosso objetivo é reunir entusiastas, estudantes e profissionais para compartilh
 
 ## 🚀 O que você encontra aqui
 - 📂 **Demos**: exemplos e códigos apresentados em meetups e workshops  
-- 🎤 **Eventos**: materiais de encontros, palestras e hands-on  
+- 🎤 **Docs**: materiais de encontros, palestras e hands-on  
 - 📖 **Documentação**: guias e anotações produzidos pela comunidade  
 
 ---
 
-## 📅 Nosos eventos
-🔗 [PyDay SJC Setembro](https://www.sympla.com.br/evento/pyday-sjc-setembro-2025/3097652)  
+## 📅 Próximos eventos
+🔗 [PyDay SJC Outubro | Em breve!](#)  
 🔗 [Calendário](#)  
+
+---
+## 📂 Documentos
+- [Julho 2025](https://drive.google.com/drive/folders/1HacyGkWVk2zDbqzRWyRXYDXgMTAFrrKu?usp=sharing)
+- [Setembro 2025](https://drive.google.com/drive/u/5/folders/19X1SArJTrWWgJtns88r6XhIJ7RtDTv-D)
 
 ---
 
